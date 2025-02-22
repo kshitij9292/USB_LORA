@@ -12,8 +12,8 @@ Features
 
 Hardware Components
 
-    Arduino-compatible microcontroller (e.g., ATmega32U4, ESP32, or STM32)
-    LoRa module (e.g., SX1276, RFM95)
+    Arduino-compatible microcontroller ATmega
+    LoRa module SX1276
     USB-to-serial converter (if required)
     PCB design for compact form factor
 
