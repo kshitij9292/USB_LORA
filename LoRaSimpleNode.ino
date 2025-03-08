@@ -20,7 +20,6 @@
   See the Semtech datasheet, http://www.semtech.com/images/datasheet/sx1276.pdf
   for more on InvertIQ register 0x33.
 
-  created 05 August 2018
 */
 
 #include <SPI.h>              // include libraries
