@@ -21,7 +21,6 @@
   for more on InvertIQ register 0x33.
 
   created 05 August 2018
-  by Luiz H. Cassettari
 */
 
 #include <SPI.h>              // include libraries
